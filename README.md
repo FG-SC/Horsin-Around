@@ -13,10 +13,10 @@ A lightweight, file-based system for orchestrating multiple AI agents working in
 ## Philosophy
 
 ```
-     Traditional Development              Swarm Commander
+     Traditional Development           Swarm Commander
 
-            🐴                           🐴  🐴  🐴  🐴  🐴
-     One task at a time              Organized stampede
+            🐴                      🐴  🐴  🐴  🐴  🐴
+     One task at a time               Organized stampede
 
       "Let me plan this              "Release the horses,
        for 3 weeks..."                we ship at sunset"
