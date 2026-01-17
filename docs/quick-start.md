@@ -270,7 +270,7 @@ Send a reminder about the key rules:
 ## The Parallel Go Horse Manifesto (Quick Version)
 
 1. **"It works on my 5 machines"** - If all horses say it works, it works
-2. **"Não há problema que não se resolva com mais cavalos"** - More horses = more solutions
+2. **"There are no problems that cant be solved with more horses"** - More horses = more solutions
 3. **"Timeout exists for a reason"** - Even Go Horse respects the 10% rule
 4. **"Documentation is for the weak, but order.md is sacred"** - Files are the law
 
@@ -278,4 +278,4 @@ Send a reminder about the key rules:
 
 **You're ready!** Release the horses and experience 3-5x faster project completion. 🐴
 
-*"Fui de um cavalo para cinco. Mudou minha vida."* — Um Commander Feliz
+*"I've gone from a horse to fice. Changed my life."* — A happy horser.
