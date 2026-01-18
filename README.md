@@ -1,4 +1,4 @@
-# Swarm Commander
+# Horsin' Around
 
 > **Go Horse, but make it parallel.** 🐴🐴🐴🐴🐴
 
